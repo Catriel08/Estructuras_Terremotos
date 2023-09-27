@@ -1,0 +1,29 @@
+  *******************************************************
+  S E R V I C I O  G E O L O G I C O  C O L O M B I A N O
+  *******************************************************
+
+  Lista de terremotos ocurridos en Colombia: 
+ 
+  < Zax & 22/08/2017 & 5.2 & Amazonas & 0 >
+ 
+  < May & 24/04/2010 & 6.3 & Meta & 1 >
+ 
+  < Colombia & 14/02/1775 & 7.4 & Vichada & 2 >
+ 
+  < Abyss & 15/11/1995 & 8.8 & Cauca & 5 >
+ 
+  < Pink & 30/04/1926 & 9.3 & Huila & 352 >
+ 
+  < CAT & 07/11/2021 & 8.6 & Nariño & 1520 >
+ 
+  < SERGIOPETARDO & 15/02/1992 & 6.6 & Meta & 10 >
+ 
+  < ASDADAD & adadad & 7.7 & adadad & 4 >
+ 
+  Terremoto de mayor magnitud: Pink
+
+  Terremoto con mayor número de perdidas humanas: <CAT & 1520>
+
+  *******************************************************
+            F I N  D E L  R E P O R T E
+  *******************************************************
