@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class TerremotosBrayanGrimaldo {
 
+    //Este es un comentario
     ArrayList terremotos;
     int contador =0;
 
@@ -113,7 +114,6 @@ public class TerremotosBrayanGrimaldo {
 
     public void eliminarTerremotoTxtBrayanGrimaldo() {
 
-        // Declaramos las variables
         int idTerremoto;
         String nombreTerremoto;
         int numMuertosTerremoto;
