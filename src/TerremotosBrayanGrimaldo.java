@@ -114,6 +114,10 @@ public class TerremotosBrayanGrimaldo {
 
     public void eliminarTerremotoTxtBrayanGrimaldo() {
 
+        System.out.println("");
+        System.out.println("------------------ELIMINAR TERREMOTO-------------------");
+        System.out.println("");
+
         int idTerremoto;
         String nombreTerremoto;
         int numMuertosTerremoto;
@@ -143,7 +147,10 @@ public class TerremotosBrayanGrimaldo {
                     // Si la respuesta es "N", entonces NO eliminara el terremotos
                 } else if (opcion.compareToIgnoreCase("N") == 0) {
                     System.out.println("Operacion cancelada, volviendo al menu principal...");
-                    //menuPrincipalSergioArboleda();
+
+                    System.out.println("");
+                    System.out.println("------------------FIN ELIMINAR TERREMOTO-------------------");
+                    System.out.println("");
                 }
             }
         }
