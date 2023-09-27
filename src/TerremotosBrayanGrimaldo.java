@@ -128,7 +128,7 @@ public class TerremotosBrayanGrimaldo {
         String opcion;
 
         // Le pedimos al usuario el id para buscar el terremotos
-        System.out.println("Ingrese el id del terremotos al que desea eliminar:");
+        System.out.println("Ingrese el id del terremoto que desea eliminar:");
         idTerremoto = leer.nextInt();
 
         // Iteramos todos los terremotos y encontramos el terremotos que el usuario esta buscando con el "idTerremoto"
@@ -136,17 +136,17 @@ public class TerremotosBrayanGrimaldo {
             terremoto = (Terremoto) terremotos.get(i);
 
             if (terremoto.getIdentificacion() == idTerremoto) {
-                System.out.println("¿Esta seguro que desea eliminar el terremotos con id " + idTerremoto + "? (Y/N)");
+                System.out.println("¿Está seguro que desea eliminar el terremoto con el id " + idTerremoto + "? (Y/N)");
                 opcion = leer.next();
 
                 // Si la respuesta es "Y", entonces eliminara el terremotos
                 if (opcion.compareToIgnoreCase("Y") == 0) {
                     terremotos.remove(i);
                     guardarTerremotosTxtBrayanGrimaldo();
-                    System.out.println("El terremotos con id " + idTerremoto + " ha sido eliminado correctamente");
+                    System.out.println("El terremotos con el id " + idTerremoto + " ha sido eliminado correctamente");
                     // Si la respuesta es "N", entonces NO eliminara el terremotos
                 } else if (opcion.compareToIgnoreCase("N") == 0) {
-                    System.out.println("Operacion cancelada, volviendo al menu principal...");
+                    System.out.println("Operación cancelada, volviendo al menu principal...");
 
                     System.out.println("");
                     System.out.println("------------------FIN ELIMINAR TERREMOTO-------------------");

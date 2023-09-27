@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39c12c6e-77fc-4eb4-b4f1-a19e3a93750e" name="Changes" comment="" />
+    <list default="true" id="39c12c6e-77fc-4eb4-b4f1-a19e3a93750e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/TerremotosBrayanGrimaldo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TerremotosBrayanGrimaldo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,15 +38,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Brayan/Documents/GitHub/Estructuras_Terremotos",
-    "onboarding.tips.debug.path": "C:/Users/Brayan/IdeaProjects/ServgeologicoBrayanGrimaldo/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Brayan/Documents/GitHub/Estructuras_Terremotos&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Brayan/IdeaProjects/ServgeologicoBrayanGrimaldo/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Brayan\IdeaProjects\ServgeologicoBrayanGrimaldo\Txt_Terremotos" />
